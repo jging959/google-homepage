@@ -1,3 +1,4 @@
 # google-homepage
 Google homepage project
-The Odin Project
+Project HTML/CSS
+theodinproject.com
